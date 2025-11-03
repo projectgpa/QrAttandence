@@ -1,0 +1,7 @@
+{
+  "name": "qr-attendance/system",
+  "description": "QR Attendance Management System",
+  "require": {
+    "php": ">=7.4"
+  }
+}
